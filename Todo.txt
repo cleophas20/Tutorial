@@ -11,3 +11,5 @@ MY TO-DO LIST
 9. Get Git.
 10. Got Git.
 11. Check mate.
+12. Test more things.
+13. Test branches.
